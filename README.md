@@ -15,4 +15,5 @@ Un outil Open Source de surveillance en temps réel pour détecter les fuites de
 4. Ajoutez votre Webhook Discord dans `scanner.py`.
 
 ## 💰 Soutenir le projet
-Si cet outil vous aide à protéger vos données, n'hésitez pas à laisser une ⭐ sur GitHub ou à faire un don via mon lien PAYPAL :  paypal.me/LynxServicesFR
+Si cet outil vous aide à protéger vos données, n'hésitez pas à laisser une ⭐ sur GitHub ou à faire un don via mon lien PAYPAL ou par email: 
+https://paypal.me/LynxServicesFR ou [contact.leakwatch@proton.me](mailto:contact.leakwatch@proton.me)
